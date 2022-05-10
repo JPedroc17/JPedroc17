@@ -6,23 +6,30 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 * 📍 Eu moro no Rio de Janeiro, Brasil
 * 📚 Atualmente estou estudando a linguagem de programação C
 * ✉️   Contate-me através desse email: [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
---------------------
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
---------------------
 
-<p align="left"> <a href="https://discord.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/JPedroc17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jpedroc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+##
 
-### Badges
+### Linguagens
+<div align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
+</div>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JPedroc17"><img src="https://github-readme-stats.vercel.app/api?username=JPedroc17&show_icons=true&count_private=true&theme=merko&include_all_commits=true" alt="JPedroc17's GitHub stats" /></a>
-
-<a href="http://www.github.com/JPedroc17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JPedroc17&show_icons=true&count_private=true&theme=merko&include_all_commits=true" /></a>
-
-<a href="https://github.com/JPedroc17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroc17&show_icons=true&count_private=true&theme=merko&include_all_commits=true" alt="Top Languages" /></a>
+### GitHub Stats
+<div>
+<a href="http://www.github.com/JPedroc17"><img src="https://github-readme-stats.vercel.app/api?username=JPedroc17&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" alt="JPedroc17's GitHub stats" /></a>
+<a href="http://www.github.com/JPedroc17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JPedroc17&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
+<a href="https://github.com/JPedroc17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroc17&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" alt="Top Languages" /></a>
+ </div>
+ 
+ ### Social Media
+ 
+ <div>
+  <a href="https://instagram.com/jpedroc17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/users/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jpccarvalho2210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jpedroc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
