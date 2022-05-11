@@ -6,7 +6,7 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 * 📍 Eu moro no Rio de Janeiro, Brasil
 * 📚 Atualmente estou estudando a linguagem de programação C
 * ✉️   Contate-me através desse email: [jocardos@student.42.rio](mailto:jocardos@student.42.rio)
-
+ 
 ##
 
 ### Stack
@@ -17,13 +17,23 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
 </div>
 
+##
+
+### 42 Stats
+<div>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31v6hcl001608mf7g699st4/stats?cursusId=36&coalitionId=piscine" alt="jocardos's 42 stats" /></a>
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31v6hcl001608mf7g699st4/stats?cursusId=21&coalitionId=undefined" alt="jocardos's 42 stats" /></a>
+</div>
+
+##
 
 ### GitHub Stats
 <div>
 <a href="http://www.github.com/JPedroc17"><img src="https://github-readme-stats.vercel.app/api?username=JPedroc17&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" alt="JPedroc17's GitHub stats" /></a>
 <a href="http://www.github.com/JPedroc17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JPedroc17&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
-<a href="https://github.com/JPedroc17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroc17&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" alt="Top Languages" /></a>
  </div>
+ 
+ ##
  
  ### Social Media
  
