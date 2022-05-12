@@ -1,5 +1,4 @@
-## Oiii 👋 Meu nome é João Pedro
-=================================
+<h1 align="left">Oiii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o João Pedro</h1>
 
 Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software que conta com [42 campus em 25 países](https://www.42network.org/42-schools/).
 
@@ -39,7 +38,7 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
  
  <div>
   <a href="https://instagram.com/jpedroc17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/712774999718625391" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/users/712774999718625391" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jocardos@student.42.rio"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jpedroc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
