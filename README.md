@@ -20,7 +20,6 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 
 ### 42 Stats
 <div>
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31v6hcl001608mf7g699st4/stats?cursusId=36&coalitionId=piscine" alt="jocardos's 42 stats" /></a>
  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31v6hcl001608mf7g699st4/stats?cursusId=21&coalitionId=undefined" alt="jocardos's 42 stats" /></a>
 </div>
 
